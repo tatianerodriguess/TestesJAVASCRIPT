@@ -42,6 +42,29 @@ vale para qualquer operação matemática */
 console.log(num5)
 
 
+/* OPERADORES RELACIONAIS
+operadores comparação, retornam TRUE OR FALSE
+> , >= , < , <= , == e != */
+
+let a= 10
+let b= 5
+let c= 10
+
+console.log(a > b)
+console.log(a < b)
+console.log(a >= c)
+console.log(a == c)
+console.log(b != c)
+
+console.log(!(a == c)) //NOT, negação, vai inverter a resposta
+
+
+
+
+
+
+
+
 
 
 
