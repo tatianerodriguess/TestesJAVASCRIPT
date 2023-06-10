@@ -59,6 +59,9 @@ console.log(b != c)
 console.log(!(a == c)) //NOT, negação, vai inverter a resposta
 
 
+// === compara valor e tipo de variáveis
+
+
 
 
 
